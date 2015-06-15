@@ -1,5 +1,5 @@
 # hello-world
 My first repository.
-i changed things here.
+I changed things here.
 
 and here...
